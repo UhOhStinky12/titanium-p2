@@ -33,3 +33,4 @@ Please make it possible to contact you, both for legal reasons and your users ma
 This work is licensed in order to ensure there will be no misuse of the code.
 
 # This will be open source forever
+[![Run on Repl.it](https://repl.it/badge/github/UhOhStinky12/titanium-p2)](https://repl.it/github/UhOhStinky12/titanium-p2)
